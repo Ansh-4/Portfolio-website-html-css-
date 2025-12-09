@@ -1,3 +1,11 @@
+
+
+
+
+https://github.com/user-attachments/assets/3ec7198c-967d-4ef8-910e-33716341294f
+
+
+
 A clean and modern personal portfolio website built with HTML, CSS, and a cinematic video background.
 This site highlights my resume, projects, and social profiles — with a fullscreen edit video playing in the background for a unique, creative touch.
 
